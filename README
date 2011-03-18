@@ -1,1 +1,17 @@
+= Description
+
 A basic vim configuration to work with Rails
+
+
+= Dependencies
+ * Vim with Ruby support
+ * Ack (ack-grep in ubuntu and debian based systems)
+ * cURL
+ * Exuberant ctags
+
+= Install
+ 1. After you downloaded the repository copy all the files in your home.
+ 2. Execute the +vimbundles.sh+ script, it will create a .vimbundles directory and download every plugin inside.
+
+= Notes
+No warranties, expressed or implied. In fact it is not tested (done in five minutes)
